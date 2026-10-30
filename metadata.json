@@ -1,0 +1,6 @@
+{
+  "name": "FactorySee Monitor",
+  "description": "Plug-and-play OT/IoT network visibility, auto-classification, anomaly detection, plain-language Traffic-to-Story audio explanations, search threat intelligence, and physical device inspection for SME factories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
